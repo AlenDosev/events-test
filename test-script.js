@@ -1,1 +1,3 @@
-console.log(colect);
+(function () {
+  console.log(colect);
+})();
